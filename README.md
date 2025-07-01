@@ -1,7 +1,5 @@
 # File_spamer
-Python file spammer
-This script can create a lot of files with incomprehensible text, thereby clogging up memory.
-Этот скрипт может создавать множество файлов с непонятным текстом тем самым засоряя память.
+This Python script generates large numbers of text files with random content. It is intended for educational and testing purposes, such as simulating disk usage, benchmarking file I/O performance, or testing antivirus detection of mass file creation. Includes configurable parameters for file size, content type, and generation speed.
 # ENG
 # Instructions: 
 First of all, you need Python version 3.11 or higher (tested on 3.11.5).
